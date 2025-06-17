@@ -30,7 +30,7 @@
 - HSO Team Attendance 7/8 - [`Link`](https://docs.google.com/spreadsheets/d/1gtkXt0f9oMpi1j8dnUCggjrSndeg24QwgiJGgmRN2pM/edit?gid=2090411296#gid=2090411296)
 - HSO Roster File For Attendance - [`Link`](https://docs.google.com/spreadsheets/d/1ZYgCLS2GW1evZAEWbZZxcwBM7YidbWs1KrCbxeZ-nz0/edit?gid=2046123913#gid=2046123913)
 - HSO Tech Docs and Data File - [`Link`](https://docs.google.com/spreadsheets/d/1P6jcS3oIz92eMslIUt-eWig9ZISz8XVr-lPmmRFGRNs/edit?gid=0#gid=0)
-- HSO SOPs and Work Instructions for Support Technicians - [`Link`](https://henryschein1.sharepoint.com/sites/CustomerServicesSOPs/Shared%20Documents/Forms/AllItems.aspx?
+- HSO SOPs and Work Instructions for Support Technicians - [`Link`](https://henryschein1.sharepoint.com/sites/CustomerServicesSOPs/Shared%20Documents/Forms/AllItems.aspx?)
 
 
 

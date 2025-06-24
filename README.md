@@ -31,7 +31,7 @@
 - HSO Incident Report Guide - [`Link`](https://docs.google.com/document/d/1o2ZXuiT_2iye9N4t4VNB28ZrhBL47E5siRtJSUkk7pc/edit?tab=t.0)
 - HSO Incident Report Tech Helpdesk Tickets - [`Link`](https://docs.google.com/spreadsheets/d/1rpar5qKJFCiKN3rA4x0dxiXBYUqHiSY535hcTEC0QL4/edit?gid=0#gid=0) - All  Tickets Should Be Reported
 - HSO Helpdesk Portal - [`Link`](https://henryscheinone-it.atlassian.net/servicedesk/customer/portals)
-- HSO Team Attendance 7/8 - [`Link`](https://docs.google.com/spreadsheets/d/1gtkXt0f9oMpi1j8dnUCggjrSndeg24QwgiJGgmRN2pM/edit?gid=2090411296#gid=2090411296)
+- HSO Team Attendance 7/8 - [`Link`](https://docs.google.com/spreadsheets/d/1gtkXt0f9oMpi1j8dnUCggjrSndeg24QwgiJGgmRN2pM/edit?gid=138063739#gid=138063739)
 - HSO Roster File For Attendance - [`Link`](https://docs.google.com/spreadsheets/d/1ZYgCLS2GW1evZAEWbZZxcwBM7YidbWs1KrCbxeZ-nz0/edit?gid=2046123913#gid=2046123913)
 - HSO Tech Docs and Data File - [`Link`](https://docs.google.com/spreadsheets/d/1P6jcS3oIz92eMslIUt-eWig9ZISz8XVr-lPmmRFGRNs/edit?gid=0#gid=0)
 - HSO SOPs and Work Instructions for Support Technicians - [`Link`](https://henryschein1.sharepoint.com/sites/CustomerServicesSOPs/Shared%20Documents/Forms/AllItems.aspx?)

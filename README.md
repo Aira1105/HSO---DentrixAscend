@@ -11,8 +11,12 @@
 - OP360 Service Request Ticket Creation [`Link`](https://servicedesk.officepartners360.com/support/catalog/items?popular=true)
 
 
-### HSO Dentrix Ascend Training Links
+### HSO Dentrix Ascend Training Links and Courses
 - Ascend Technical Support New Hire Onboarding [`Link`](https://hso.skilljar.com/path/technical-support-new-hire-onboarding-series)
+- Dentrix Ascend Help [`Link`](https://hsps.pro/DentrixAscend/Help/index.htm) 
+
+### HSO Dentrix Ascend 
+
 
 
 

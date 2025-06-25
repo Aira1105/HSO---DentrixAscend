@@ -1,5 +1,12 @@
 ## HSO---DentrixAscend
 
+
+|![image](https://github.com/user-attachments/assets/5be1d89a-2a4e-4f8f-b49d-eb7822412bb1)|
+|-----------------------------------------------------------------------------------------|
+
+
+
+
 ### OP360 Tools
 ###### *Important OfficePartners360 Links*
 - $\color{Red}\textbf{\textbf{Allsec Website}}$ - [`Link`](https://www.allsechro.ph/OP360/Common/HomePage.aspx) - *Make sure to check your Log-ins to prevent disputes and corrections*

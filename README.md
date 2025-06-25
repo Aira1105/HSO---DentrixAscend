@@ -19,6 +19,7 @@
 - Bomgar Installation link - [`Link`](https://drive.google.com/file/d/1NnUVNIHMLOhLwGQrGc3UY6U5R20QgRog/view?usp=drive_link) *Install time - 5-6mins*
 
 ### HSO Tools and Docs
+- Dentrix Ascend - [`Link`](https://go.dentrixascend.com/pm#/dashboard)
 - Salesforce HS1 Support Console CRM -[`Link`](https://henryscheinone.lightning.force.com/lightning/page/home)
 - CXone Salesforce Agent Workflow - [`Link`](https://henryschein1.sharepoint.com/sites/CustomerServicesSOPs/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FCXone%2FSalesforce%20Agent%2FCXone%20Salesforce%20Agent%20Workflow%2Epdf&parent=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FCXone%2FSalesforce%20Agent)
 - HSO Support Technician Process - [`Link`](https://henryschein1.sharepoint.com/sites/CustomerServicesSOPs/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FSupport%20Technicians%2FSupport%20Technician%20Process%2Epdf&parent=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FSupport%20Technicians)

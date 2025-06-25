@@ -15,6 +15,9 @@
 - Ascend Technical Support New Hire Onboarding [`Link`](https://hso.skilljar.com/path/technical-support-new-hire-onboarding-series)
 - Dentrix Ascend Help [`Link`](https://hsps.pro/DentrixAscend/Help/index.htm) 
 
+### Dentrix Core Tools
+- Bomgar Installation link - [`Link`](https://drive.google.com/file/d/1NnUVNIHMLOhLwGQrGc3UY6U5R20QgRog/view?usp=drive_link) *Install time - 5-6mins*
+
 ### HSO Tools and Docs
 - Salesforce HS1 Support Console CRM -[`Link`](https://henryscheinone.lightning.force.com/lightning/page/home)
 - CXone Salesforce Agent Workflow - [`Link`](https://henryschein1.sharepoint.com/sites/CustomerServicesSOPs/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FCXone%2FSalesforce%20Agent%2FCXone%20Salesforce%20Agent%20Workflow%2Epdf&parent=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FCXone%2FSalesforce%20Agent)

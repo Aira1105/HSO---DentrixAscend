@@ -35,10 +35,10 @@
 |-------------|---------------------------|
 | Ascend Beta | [`🔗`](beta.gryphondds.com/login) |
 | Ascend Live 1  | [`🔗`](live.dentrixascend.com/login) |
-| Ascend Live 2 | [`🔗](live2.dentrixascend.com/login) |
+| Ascend Live 2 | [`🔗`](live2.dentrixascend.com/login) |
 | Ascend Live 3 | [`🔗`](live3.dentrixascend.com/login) |
 | Ascend Live 4 | [`🔗`](live4.dentrixascend.com/login) |
-| Ascend Live 5 | [`🔗](live5.dentrixascend.com/login) |
+| Ascend Live 5 | [`🔗`](live5.dentrixascend.com/login) |
 | Ascend Live 7 | [`🔗`](live7.dentrixascend.com/login) |
 | Ascend Live 8 | [`🔗`](live8.dentrixascend.com/login) |
 | Ascend Live 18 | [`🔗`](live18.dentrixascend.com/login) |

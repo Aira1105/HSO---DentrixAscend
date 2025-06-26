@@ -31,6 +31,9 @@
 - Omni Channel Voice Workflow - [`Link`](https://henryschein1.sharepoint.com/sites/CustomerServicesSOPs/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FOmni%20Channel%2FVoice%2FOmni%20Channel%20Voice%20Workflow%2Epdf&parent=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FOmni%20Channel%2FVoice&p=true&ga=1)
 - HSO QA Support Playbook - [`Link`](https://docs.google.com/document/d/1cmTKFA1b-XvTU1kqVRTqrc290gVtq9AIVKKDLINA83o/edit?tab=t.0)
 
+
+
+|-------------|----------------------------|
 | Ascend Sites | Links                     |
 |-------------|---------------------------|
 | Ascend Beta | [`🔗`](https://beta.gryphondds.com/login) |
@@ -47,6 +50,8 @@
 | Ascend Athena Live | [`🔗`](https://athena-live.dentrixascend.com) |
 | Ascend Athena Ident | [`🔗`](https://athena-convtrial.ident.com/login) |
 | Ascend Smile Brand | [`🔗`](https://smilebrands.dentrixascend.com) |
+
+
 
 ### HSO Team Leads Support Tools
 - CXone Admin Dashboard - [`Link`](https://cxone.niceincontact.com)

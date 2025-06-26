@@ -36,8 +36,6 @@
 
 | Ascend Sites |   Organization            | Links                     |
 |-------------|---------------------------|---------------------------|
-
-
 | Ascend Beta | Beta – standental | [`🔗`](https://beta.gryphondds.com/login) |
 | Ascend Live 1  | Prod – fiberglassdental / Standental | [`🔗`](https://live.dentrixascend.com/login) |
 | Ascend Live 2 | Prod 2 – Microfiber / Standental | [`🔗`](https://live2.dentrixascend.com/login) |

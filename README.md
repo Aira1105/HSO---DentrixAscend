@@ -33,20 +33,20 @@
 
 | Ascend Sites | Links                     |
 |-------------|---------------------------|
-| Ascend Beta | [`🔗`](beta.gryphondds.com/login) |
-| Ascend Live 1  | [`🔗`](live.dentrixascend.com/login) |
-| Ascend Live 2 | [`🔗`](live2.dentrixascend.com/login) |
-| Ascend Live 3 | [`🔗`](live3.dentrixascend.com/login) |
-| Ascend Live 4 | [`🔗`](live4.dentrixascend.com/login) |
-| Ascend Live 5 | [`🔗`](live5.dentrixascend.com/login) |
-| Ascend Live 7 | [`🔗`](live7.dentrixascend.com/login) |
-| Ascend Live 8 | [`🔗`](live8.dentrixascend.com/login) |
-| Ascend Live 18 | [`🔗`](live18.dentrixascend.com/login) |
-| Ascend Live 19 | [`🔗`](live19.dentrixascend.com/login) |
-| Ascend Live Gyphon DDS | [`🔗`](conv.gryphondds.com/login) |
-| Ascend Athena Live | [`🔗`](athena-live.dentrixascend.com) |
-| Ascend Athena Ident | [`🔗`](athena-convtrial.ident.com/login) |
-| Ascend Smile Brand | [`🔗`](smilebrands.dentrixascend.com) |
+| Ascend Beta | [`🔗`](https://beta.gryphondds.com/login) |
+| Ascend Live 1  | [`🔗`](https://live.dentrixascend.com/login) |
+| Ascend Live 2 | [`🔗`](https://live2.dentrixascend.com/login) |
+| Ascend Live 3 | [`🔗`](https://live3.dentrixascend.com/login) |
+| Ascend Live 4 | [`🔗`](https://live4.dentrixascend.com/login) |
+| Ascend Live 5 | [`🔗`](https://live5.dentrixascend.com/login) |
+| Ascend Live 7 | [`🔗`](https://live7.dentrixascend.com/login) |
+| Ascend Live 8 | [`🔗`](lhttps://ive8.dentrixascend.com/login) |
+| Ascend Live 18 | [`🔗`](https://live18.dentrixascend.com/login) |
+| Ascend Live 19 | [`🔗`](https://live19.dentrixascend.com/login) |
+| Ascend Live Gyphon DDS | [`🔗`](https://conv.gryphondds.com/login) |
+| Ascend Athena Live | [`🔗`](https://athena-live.dentrixascend.com) |
+| Ascend Athena Ident | [`🔗`](https://athena-convtrial.ident.com/login) |
+| Ascend Smile Brand | [`🔗`](https://smilebrands.dentrixascend.com) |
 
 ### HSO Team Leads Support Tools
 - CXone Admin Dashboard - [`Link`](https://cxone.niceincontact.com)

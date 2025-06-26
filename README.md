@@ -10,22 +10,23 @@
 - OP360 IT Incident Ticket Creation [`Link`](https://servicedesk.officepartners360.com/support/tickets/new)
 - OP360 Service Request Ticket Creation [`Link`](https://servicedesk.officepartners360.com/support/catalog/items?popular=true)
 
-### Ascend URLs
-- Ascend Beta [`🔗`](beta.gryphondds.com/login)
-- Ascend Live 1 [`🔗`](live.dentrixascend.com/login)
-- Ascend Live 2 [`🔗](live2.dentrixascend.com/login)
-- Ascend Live 3 [`🔗`](live3.dentrixascend.com/login)
-- Ascend Live 4 [`🔗`](live4.dentrixascend.com/login)
-- Ascend Live 5 [`🔗](live5.dentrixascend.com/login)
-- Ascend Live 7 [`🔗`](live7.dentrixascend.com/login)
-- Ascend Live 8 [`🔗`](live8.dentrixascend.com/login)
-- Ascend Live 18 [`🔗`](live18.dentrixascend.com/login)
-- Ascend Live 19 [`🔗`](live19.dentrixascend.com/login)
-- Ascend Live Gyphon DDS [`🔗`](conv.gryphondds.com/login)
-- Ascend Athena Live [`🔗`](athena-live.dentrixascend.com)
-- Ascend Athena Ident [`🔗`](athena-convtrial.ident.com/login)
-- Ascend Smile Brand [`🔗`](smilebrands.dentrixascend.com)
-- Ascend Smile Sales Ident [`🔗`](ascend-sales.ident.com)
+| Ascend Sites | Links                     |
+|-------------|---------------------------|
+| Ascend Beta | [`🔗`](beta.gryphondds.com/login) |
+| Ascend Live 1  | [`🔗`](live.dentrixascend.com/login) |
+| Ascend Live 2 | [`🔗](live2.dentrixascend.com/login) |
+| Ascend Live 3 | [`🔗`](live3.dentrixascend.com/login) |
+| Ascend Live 4 | [`🔗`](live4.dentrixascend.com/login) |
+| Ascend Live 5 | [`🔗](live5.dentrixascend.com/login) |
+| Ascend Live 7 [`🔗`](live7.dentrixascend.com/login) |
+| Ascend Live 8 | [`🔗`](live8.dentrixascend.com/login) |
+| Ascend Live 18 | [`🔗`](live18.dentrixascend.com/login) |
+| Ascend Live 19 | [`🔗`](live19.dentrixascend.com/login) |
+| Ascend Live Gyphon DDS | [`🔗`](conv.gryphondds.com/login) |
+| Ascend Athena Live | [`🔗`](athena-live.dentrixascend.com) |
+| Ascend Athena Ident | [`🔗`](athena-convtrial.ident.com/login) |
+| Ascend Smile Brand | [`🔗`](smilebrands.dentrixascend.com) |
+| Ascend Smile Sales Ident |[`🔗`](ascend-sales.ident.com) |
 
 ### HSO Dentrix Ascend Training Links and Courses
 - Ascend Technical Support New Hire Onboarding [`Link`](https://hso.skilljar.com/path/technical-support-new-hire-onboarding-series)
@@ -46,6 +47,23 @@
 - AVD Remote Desktop Download [`Link`](https://go.microsoft.com/fwlink/?linkid=2139369) - Install Time <5 mins
 - Omni Channel Voice Workflow - [`Link`](https://henryschein1.sharepoint.com/sites/CustomerServicesSOPs/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FOmni%20Channel%2FVoice%2FOmni%20Channel%20Voice%20Workflow%2Epdf&parent=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FOmni%20Channel%2FVoice&p=true&ga=1)
 - HSO QA Support Playbook - [`Link`](https://docs.google.com/document/d/1cmTKFA1b-XvTU1kqVRTqrc290gVtq9AIVKKDLINA83o/edit?tab=t.0)
+
+| Ascend Sites | Links                     |
+|-------------|---------------------------|
+| Ascend Beta | [`🔗`](beta.gryphondds.com/login) |
+| Ascend Live 1  | [`🔗`](live.dentrixascend.com/login) |
+| Ascend Live 2 | [`🔗](live2.dentrixascend.com/login) |
+| Ascend Live 3 | [`🔗`](live3.dentrixascend.com/login) |
+| Ascend Live 4 | [`🔗`](live4.dentrixascend.com/login) |
+| Ascend Live 5 | [`🔗](live5.dentrixascend.com/login) |
+| Ascend Live 7 [`🔗`](live7.dentrixascend.com/login) |
+| Ascend Live 8 | [`🔗`](live8.dentrixascend.com/login) |
+| Ascend Live 18 | [`🔗`](live18.dentrixascend.com/login) |
+| Ascend Live 19 | [`🔗`](live19.dentrixascend.com/login) |
+| Ascend Live Gyphon DDS | [`🔗`](conv.gryphondds.com/login) |
+| Ascend Athena Live | [`🔗`](athena-live.dentrixascend.com) |
+| Ascend Athena Ident | [`🔗`](athena-convtrial.ident.com/login) |
+| Ascend Smile Brand | [`🔗`](smilebrands.dentrixascend.com) |
 
 ### HSO Team Leads Support Tools
 - CXone Admin Dashboard - [`Link`](https://cxone.niceincontact.com)

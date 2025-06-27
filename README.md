@@ -10,12 +10,11 @@
 - OP360 IT Incident Ticket Creation [`Link`](https://servicedesk.officepartners360.com/support/tickets/new)
 - OP360 Service Request Ticket Creation [`Link`](https://servicedesk.officepartners360.com/support/catalog/items?popular=true)
 
-
 ### HSO Dentrix Ascend Training Links and Courses
 - Ascend Technical Support New Hire Onboarding [`Link`](https://hso.skilljar.com/path/technical-support-new-hire-onboarding-series)
 - Dentrix Ascend Help [`Link`](https://hsps.pro/DentrixAscend/Help/index.htm) 
 
-### Dentrix Core Tools
+### Dentrix Tools
 - Bomgar Installation link - [`Link`](https://drive.google.com/file/d/1NnUVNIHMLOhLwGQrGc3UY6U5R20QgRog/view?usp=drive_link) *Install time - 5-6mins*
 
 ### HSO Tools and Docs
@@ -31,9 +30,16 @@
 - Omni Channel Voice Workflow - [`Link`](https://henryschein1.sharepoint.com/sites/CustomerServicesSOPs/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FOmni%20Channel%2FVoice%2FOmni%20Channel%20Voice%20Workflow%2Epdf&parent=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FOmni%20Channel%2FVoice&p=true&ga=1)
 - HSO QA Support Playbook - [`Link`](https://docs.google.com/document/d/1cmTKFA1b-XvTU1kqVRTqrc290gVtq9AIVKKDLINA83o/edit?tab=t.0)
 
-
-
-
+### HSO Team Leads Support Tools
+- CXone Admin Dashboard - [`Link`](https://cxone.niceincontact.com)
+- HSO Incident Report Guide - [`Link`](https://docs.google.com/document/d/1o2ZXuiT_2iye9N4t4VNB28ZrhBL47E5siRtJSUkk7pc/edit?tab=t.0)
+- HSO Incident Report Tech Helpdesk Tickets - [`Link`](https://docs.google.com/spreadsheets/d/1rpar5qKJFCiKN3rA4x0dxiXBYUqHiSY535hcTEC0QL4/edit?gid=0#gid=0) - All  Tickets Should Be Reported
+- HSO Helpdesk Portal - [`Link`](https://henryscheinone-it.atlassian.net/servicedesk/customer/portals)
+- HSO Team Attendance 7/8 - [`Link`](https://docs.google.com/spreadsheets/d/1gtkXt0f9oMpi1j8dnUCggjrSndeg24QwgiJGgmRN2pM/edit?gid=138063739#gid=138063739)
+- HSO Roster File For Attendance - [`Link`](https://docs.google.com/spreadsheets/d/1ZYgCLS2GW1evZAEWbZZxcwBM7YidbWs1KrCbxeZ-nz0/edit?gid=2046123913#gid=2046123913)
+- HSO Tech Docs and Data File - [`Link`](https://docs.google.com/spreadsheets/d/1P6jcS3oIz92eMslIUt-eWig9ZISz8XVr-lPmmRFGRNs/edit?gid=0#gid=0)
+- HSO SOPs and Work Instructions for Support Technicians - [`Link`](https://henryschein1.sharepoint.com/sites/CustomerServicesSOPs/Shared%20Documents/Forms/AllItems.aspx?)
+- 
 https://henryschein.atlassian.net/servicedesk/customer/portals
 
 ### Ascend Sites - Back-Up Links
@@ -54,18 +60,6 @@ https://henryschein.atlassian.net/servicedesk/customer/portals
 | Ascend Athena Live |                         | [`🔗`](https://athena-live.dentrixascend.com) |
 | Ascend Athena Ident |                        | [`🔗`](https://athena-convtrial.ident.com/login) |
 | Ascend Smile Brand |                      | [`🔗`](https://smilebrands.dentrixascend.com) |
-
-
-
-### HSO Team Leads Support Tools
-- CXone Admin Dashboard - [`Link`](https://cxone.niceincontact.com)
-- HSO Incident Report Guide - [`Link`](https://docs.google.com/document/d/1o2ZXuiT_2iye9N4t4VNB28ZrhBL47E5siRtJSUkk7pc/edit?tab=t.0)
-- HSO Incident Report Tech Helpdesk Tickets - [`Link`](https://docs.google.com/spreadsheets/d/1rpar5qKJFCiKN3rA4x0dxiXBYUqHiSY535hcTEC0QL4/edit?gid=0#gid=0) - All  Tickets Should Be Reported
-- HSO Helpdesk Portal - [`Link`](https://henryscheinone-it.atlassian.net/servicedesk/customer/portals)
-- HSO Team Attendance 7/8 - [`Link`](https://docs.google.com/spreadsheets/d/1gtkXt0f9oMpi1j8dnUCggjrSndeg24QwgiJGgmRN2pM/edit?gid=138063739#gid=138063739)
-- HSO Roster File For Attendance - [`Link`](https://docs.google.com/spreadsheets/d/1ZYgCLS2GW1evZAEWbZZxcwBM7YidbWs1KrCbxeZ-nz0/edit?gid=2046123913#gid=2046123913)
-- HSO Tech Docs and Data File - [`Link`](https://docs.google.com/spreadsheets/d/1P6jcS3oIz92eMslIUt-eWig9ZISz8XVr-lPmmRFGRNs/edit?gid=0#gid=0)
-- HSO SOPs and Work Instructions for Support Technicians - [`Link`](https://henryschein1.sharepoint.com/sites/CustomerServicesSOPs/Shared%20Documents/Forms/AllItems.aspx?)
 
 ### HSO Training Guides
 - HIPAA - Protecting Patient Privacy Guides - [`Link`](https://docs.google.com/spreadsheets/d/1jDa10lR0u9Gi9n_5PA_D9ePFCEjdWw4EhznXVwMkxaY/edit?gid=263501395#gid=263501395)

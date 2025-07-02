@@ -39,7 +39,8 @@
 - HSO Roster File For Attendance - [`Link`](https://docs.google.com/spreadsheets/d/1ZYgCLS2GW1evZAEWbZZxcwBM7YidbWs1KrCbxeZ-nz0/edit?gid=2046123913#gid=2046123913)
 - HSO Tech Docs and Data File - [`Link`](https://docs.google.com/spreadsheets/d/1P6jcS3oIz92eMslIUt-eWig9ZISz8XVr-lPmmRFGRNs/edit?gid=0#gid=0)
 - HSO SOPs and Work Instructions for Support Technicians - [`Link`](https://henryschein1.sharepoint.com/sites/CustomerServicesSOPs/Shared%20Documents/Forms/AllItems.aspx?)
-- 
+- HSO Ascend Task Drawboard - [`Link`](https://docs.google.com/spreadsheets/d/1e84v80VpQImNTqTNak14gT4lppcjS19U-gawPh_uss0/edit?gid=0#gid=0)
+  
 https://henryschein.atlassian.net/servicedesk/customer/portals
 
 ### Ascend Sites - Back-Up Links
@@ -60,6 +61,7 @@ https://henryschein.atlassian.net/servicedesk/customer/portals
 | Ascend Athena Live |                         | [`🔗`](https://athena-live.dentrixascend.com) |
 | Ascend Athena Ident |                        | [`🔗`](https://athena-convtrial.ident.com/login) |
 | Ascend Smile Brand |                      | [`🔗`](https://smilebrands.dentrixascend.com) |
+
 
 ### HSO Training Guides
 - HIPAA - Protecting Patient Privacy Guides - [`Link`](https://docs.google.com/spreadsheets/d/1jDa10lR0u9Gi9n_5PA_D9ePFCEjdWw4EhznXVwMkxaY/edit?gid=263501395#gid=263501395)

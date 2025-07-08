@@ -32,6 +32,7 @@
 - HSO QA Support Playbook - [`Link`](https://docs.google.com/document/d/1cmTKFA1b-XvTU1kqVRTqrc290gVtq9AIVKKDLINA83o/edit?tab=t.0)
 
 ### HSO Team Leads Support Tools
+- HSO Outlook - [`Link`](https://outlook.office.com/mail/?login_hint=O.CiQyYWQzMmFiMS0yYzFlLTQ4NTctYjg0ZS00MDgyZDY4M2FhNDYSJGYxZDkwYjFjLWNlYWQtNGYwZC1iYmNjLTU4YjcxNjBjOTk0MhogUmVpbnouTGVkZXNtYUBoZW5yeXNjaGVpbm9uZS5jb20gOQ%3D%3D)
 - CXone Admin Dashboard - [`Link`](https://cxone.niceincontact.com)
 - HSO Incident Report Guide - [`Link`](https://docs.google.com/document/d/1o2ZXuiT_2iye9N4t4VNB28ZrhBL47E5siRtJSUkk7pc/edit?tab=t.0)
 - HSO Incident Report Tech Helpdesk Tickets - [`Link`](https://docs.google.com/spreadsheets/d/1rpar5qKJFCiKN3rA4x0dxiXBYUqHiSY535hcTEC0QL4/edit?gid=0#gid=0) - All  Tickets Should Be Reported

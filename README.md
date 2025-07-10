@@ -19,6 +19,7 @@
 
 ### HSO Tools and Docs
 - Dentrix Ascend Academy - [`Link`](https://learn.dentrixascend.com/)
+- Ascend Notes - James [`Link`](https://docs.google.com/document/d/1I-m2sYcjSmP5Vbp3jLYMfjBvOvQEdJBaRqTl9g4Yct0/edit?tab=t.0)
 - Ascend Notes - Tony Flores - [`Link`](https://henryschein1-my.sharepoint.com/:w:/r/personal/tony_flores_henryscheinone_com/Documents/HENRY%20SCHEIN%20ONE%20ASCEND.docx?d=w6522490a6fdb44638c2c47758c2e413f&csf=1&web=1&e=IOjSIo)
 - Dentrix Ascend - [`Link`](https://go.dentrixascend.com/pm#/dashboard)
 - Salesforce HS1 Support Console CRM -[`Link`](https://henryscheinone.lightning.force.com/lightning/page/home)

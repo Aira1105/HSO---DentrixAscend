@@ -43,7 +43,10 @@
 - HSO Tech Docs and Data File - [`Link`](https://docs.google.com/spreadsheets/d/1P6jcS3oIz92eMslIUt-eWig9ZISz8XVr-lPmmRFGRNs/edit?gid=0#gid=0)
 - HSO SOPs and Work Instructions for Support Technicians - [`Link`](https://henryschein1.sharepoint.com/sites/CustomerServicesSOPs/Shared%20Documents/Forms/AllItems.aspx?)
 - HSO Ascend Task Drawboard - [`Link`](https://docs.google.com/spreadsheets/d/1e84v80VpQImNTqTNak14gT4lppcjS19U-gawPh_uss0/edit?gid=0#gid=0)
-- 
+- HSO MS Outlook - [`Link`](https://outlook.office.com/mail/)
+- HSO SmartSheet - [`Link`](https://app.smartsheet.com/b/form/25a8bfcd5d49429ca2acb91b2a4c5bda)
+- HSO POD KPI Leadership Power BI - [`Link`](https://henryscheinone.domo.com/app-studio/1760899527/pages/373174835)
+- HSO BOMGAR Survey Reports - [`Link`](https://remote.dentrix.com/login/session_report/customer_exit_survey?reportType=SDCustExitSurvey&dateRange%5Bstart%5D=2025-07-10&duration=0&rep=members:146&primaryRep=on&site=1)
   
 https://henryschein.atlassian.net/servicedesk/customer/portals
 
